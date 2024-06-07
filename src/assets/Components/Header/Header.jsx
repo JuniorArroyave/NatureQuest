@@ -12,7 +12,7 @@ export function Header()  {
                 <div className="Buttons">
 
                     <input className="Input" type="search" placeholder="Buscar" />
-                    <a className="Link" href="#">Comenzar!</a>
+                    <a className="Link" href="#">Comenzar</a>
                 </div>
 
             </header>
